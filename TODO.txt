@@ -1,0 +1,5 @@
+TODO:
+1. Add rooms -Done
+2. Player/monster classes
+3. Combat
+4. Test repository -Done
